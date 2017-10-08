@@ -20,6 +20,7 @@
 
 .site-header nav a {
   color: #666;
+  display: block;
 }
 
 .site-header nav a:hover,
@@ -47,4 +48,11 @@
 
 .site-header .site-nav {
   text-align: center;
+}
+
+.site-header .avatar {
+  margin: 0 2rem;
+  width: 100px;
+  border-radius: 50%;
+  float: left;
 }
