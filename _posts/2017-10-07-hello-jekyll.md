@@ -23,7 +23,7 @@ console.log("Hello world!");
 ```                             ...
 ```
 
-And you and Octocat will automatically build that into a static web page that looks like this:
+And you and Octocat will automatically build that into a static web page with content that looks like this:
 > #### An Example  
 > Here's an example I'd like to share:  
 > ```javascript  
