@@ -1,4 +1,3 @@
-# Sam Hiatt
 samhiatt@gmail.com  +1-435-764-1005   
 PO Box 12658; San Francisco, CA 94112  
 
