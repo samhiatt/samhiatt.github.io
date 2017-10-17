@@ -1,11 +1,15 @@
-samhiatt@gmail.com  +1-435-764-1005   
+---
+layout: plain
+---
+# Sam Hiatt
+samhiatt@gmail.com  +1-435-764-1005  
 PO Box 12658; San Francisco, CA 94112  
 
 ## *Education*
 
 ### Utah State University
 #### B.S., Geography
- **Logan, UT** | *May 2007*
+**Logan, UT** | *May 2007*
 
 * Computer Science minor
 * Geographical Information Science minor
@@ -14,7 +18,7 @@ PO Box 12658; San Francisco, CA 94112  
 
 ## *Employment*
 
-###  IBM | Weather Underground
+### IBM / Weather Underground  
 **San Francisco, CA** | *Sept 2013 - April 2017*  
 #### Sr. Software Engineer | *Research & Development*
 * Leveraged open source AI software to train an Artificial Neural Network to infer meteorological conditions from images, enhancing the forecast system's understanding of current conditions.
@@ -23,7 +27,7 @@ PO Box 12658; San Francisco, CA 94112  
 * Worked on an Agile team of developers and designers to develop real-time map layers and UI elements for the Wundermap, a web-based interactive weather map.
 
 ### University Corp. at Monterey Bay
-##### NASA Ames Research Center | Ecological Forecasting Lab 
+##### NASA Ames Research Center / Ecological Forecasting Lab 
 **Moffett Field, CA** | *July 2007 - Sept 2013*
 #### Software Engineer | *GIS Web Developer*
 * Worked with NASA Earth scientists on a range of applied science projects, building custom web mapping applications for publishing satellite data products.
@@ -42,8 +46,8 @@ PO Box 12658; San Francisco, CA 94112  
 
 ## *Technical Skills*
 
-* Python, Javascript / NodeJS
-* RDBs, NoSQL, RESTful database interfaces
+* Python, Javascript/NodeJS, TypeScript
+* RDBs, NoSQL, RESTful database and application interfaces
 * Linux system administration
 * Amazon Web Services, distributed systems
 * Google Maps, Leaflet, OpenLayers web mapping libraries
